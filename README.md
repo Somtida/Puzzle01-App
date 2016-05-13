@@ -1,5 +1,9 @@
 # Puzzle01-App
 
+##How to play
+Guess 4 numbers (0 or 1) in each input box to solve the puzzle.
+Hint: Using the browse console to getting the right answer.
+
 # Angular 2 Beta Boilerplate
 
 ## Description
